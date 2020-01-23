@@ -9,6 +9,6 @@ Specially Made for use in **BANGLADESH**
 - Enter 2 For BDIX Speed Test
 
 ## You will get PING, UPLOAD & DOWNLOAD
-!(Screenshot)[https://i.ibb.co/JrNSVT4/image.png]
+![Screenshot](https://i.ibb.co/JrNSVT4/image.png)
 ---
 ### Coded in BATCH by Shahriar Shanto
