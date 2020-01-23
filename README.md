@@ -9,7 +9,7 @@ Specially Made for use in **BANGLADESH**
 - Run "Run.bat"
 - Enter 1 for Internet Speed Test
 - Enter 2 For BDIX Speed Test
-- Enjoy!
+- Enjoy! :)
 
 ## You will get PING, UPLOAD & DOWNLOAD
 ![Screenshot](https://i.ibb.co/JrNSVT4/image.png)
