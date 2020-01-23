@@ -1,5 +1,5 @@
-# SpeedTest Tool
-SpeedTest tool made using [Speedtest.net CLI](https://www.speedtest.net/apps/cli) for Windows
+# SpeedTest Tool for Windows
+SpeedTest Tool is made using [Speedtest.net CLI](https://www.speedtest.net/apps/cli)
 
 Specially Made for use in **BANGLADESH**
 
