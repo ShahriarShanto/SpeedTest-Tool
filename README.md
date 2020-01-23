@@ -11,4 +11,4 @@ Specially Made for use in **BANGLADESH**
 ## You will get PING, UPLOAD & DOWNLOAD
 ![Screenshot](https://i.ibb.co/JrNSVT4/image.png)
 ---
-### Coded in BATCH by Shahriar Shanto
+### Coded with ♥ by [Shahriar Shanto](https://www.facebook.com/Shahriar1234) © 2020
