@@ -7,5 +7,7 @@ echo Enter 1 for Internet // 2 for BDIX
 choice /N /T 5 /C 12 /D 1 /M "Your choice:"
 IF ERRORLEVEL 1 SET id=4235
 IF ERRORLEVEL 2 SET id=14414
+cls
+echo SpeedTest Tool v1.0 ~ Shahriar Shanto
 engine -s %id%
 PAUSE>nul
