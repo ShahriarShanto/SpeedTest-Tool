@@ -4,11 +4,10 @@ SpeedTest Tool is made using [Speedtest.net CLI](https://www.speedtest.net/apps/
 Specially for use in **[BANGLADESH](https://en.wikipedia.org/wiki/Bangladesh)**
 
 ## Can test for internet bandwidth & BDIX bandwidth
-- Download [SpeedTest Tool v1.2](https://github.com/ShahriarShanto/SpeedTest-Tool/releases/download/v1.2/SpeedTest.Tool.v1.2.zip) | [Google Drive](https://drive.google.com/uc?id=1mjevjHMMK9xiC7two8oWuu_Q3mLqweKE&export=download)
+- Download [SpeedTest Tool v1.5](https://github.com/ShahriarShanto/SpeedTest-Tool/releases/download/v1.5/SpeedTest.Tool.v1.5.zip) | [Mirror](https://gateway.pinata.cloud/ipfs/Qmb4z1brEShfxdT5VsHx8pkM46oFX31fQXVKRzFXM9UhRq/SpeedTest.Tool.v1.5.zip)
 - Extract the folder from ZIP
 - Run "Run.bat"
-- Enter 1 for Internet Speed Test
-- Enter 2 For BDIX Speed Test
+- Enter a number from choice list
 - Enjoy! :)
 
 ## You will get PING, UPLOAD & DOWNLOAD
