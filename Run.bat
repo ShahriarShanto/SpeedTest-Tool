@@ -45,6 +45,10 @@ echo.
 echo Test #3 : Sending pings to 103.254.152.254 Singapore
 nping -v-1 -icmp --rate 10 -c 35 103.254.152.254 | findstr /v Starting | findstr /v Nping
 echo.
+echo.
+echo Test #4 : Sending pings to 203.80.191.222 Chittagong BD
+nping -v-1 -icmp --rate 10 -c 35 203.80.191.222 | findstr /v Starting | findstr /v Nping
+echo.
 timeout /T 10
 cls
 goto begin
