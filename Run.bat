@@ -7,8 +7,7 @@ echo GitHub: https://github.com/ShahriarShanto/SpeedTest-Tool
 type art.txt
 choice /N /T 5 /C 0123456789X /D 1 /M "Your choice:"
 
-IF %ERRORLEVEL%==11 SET id=6199
-IF %ERRORLEVEL%==10 SET id=980
+IF %ERRORLEVEL%==10 SET id=5211
 IF %ERRORLEVEL%==9 SET id=7139
 IF %ERRORLEVEL%==8 SET id=14623
 IF %ERRORLEVEL%==7 SET id=4235
